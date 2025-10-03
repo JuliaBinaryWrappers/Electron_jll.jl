@@ -1,6 +1,6 @@
 name = "Electron_jll"
 uuid = "a46fd3cf-b2b0-5367-b5a0-4facf7960654"
-version = "38.2.0+1"
+version = "38.2.0+2"
 
 [deps]
 Xorg_libxcb_jll = "c7cfdc94-dc32-55de-ac96-5a1b8d977c5b"
