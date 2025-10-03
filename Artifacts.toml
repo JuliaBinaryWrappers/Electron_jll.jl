@@ -5,7 +5,7 @@ os = "macos"
 
     [[Electron.download]]
     sha256 = "a792cd13c94bbeb2fcd562cc45cbfc5ea6eab306eace39c26271a6d812e2f7fd"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.aarch64-apple-darwin.tar.gz"
 [[Electron]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "a4ca98070c943d9925962e71078b05be25eb1e38a4f8beea9fc71c1d9738b3e1"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Electron]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "a4ca98070c943d9925962e71078b05be25eb1e38a4f8beea9fc71c1d9738b3e1"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Electron]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -36,7 +36,7 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "46df6e34febc2d4cc2f4b7ddc5392581e4b9ed91093ebec818631b55368a7121"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Electron]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -47,15 +47,15 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "46df6e34febc2d4cc2f4b7ddc5392581e4b9ed91093ebec818631b55368a7121"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Electron]]
 arch = "i686"
-git-tree-sha1 = "f3c0a721ea442fdee61bf2ef9309d02f89e15994"
+git-tree-sha1 = "d588860ef5d11945412b0c77858d2c84a703655a"
 os = "windows"
 
     [[Electron.download]]
-    sha256 = "f827167d2878b8b6d7dcb93de2035f1a4c92da4f474e251b647e2000b1a66b76"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.i686-w64-mingw32.tar.gz"
+    sha256 = "bb7f560997af481dcb54fae1012658328a6d78ea82143a640e328cdcb82b2b95"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.i686-w64-mingw32.tar.gz"
 [[Electron]]
 arch = "x86_64"
 git-tree-sha1 = "3e28e19118daff48ba4fb02c3486836e3cb80e3a"
@@ -63,7 +63,7 @@ os = "macos"
 
     [[Electron.download]]
     sha256 = "2c52b46bdfb5f726bbe2a637441bbf56496a498a06df7869d4f3e33a7d8a5029"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.x86_64-apple-darwin.tar.gz"
 [[Electron]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -73,7 +73,7 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "4233160e08b735f036a8cde9478b513e617fe01b9279435136da60ab83743975"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Electron]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -83,12 +83,12 @@ os = "linux"
 
     [[Electron.download]]
     sha256 = "4233160e08b735f036a8cde9478b513e617fe01b9279435136da60ab83743975"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.x86_64-linux-musl-cxx11.tar.gz"
 [[Electron]]
 arch = "x86_64"
-git-tree-sha1 = "0b2d561a1647175f6f7818edcf4d2ac40b914913"
+git-tree-sha1 = "6b1bce60fe973fdc5753cd587970804d0e552260"
 os = "windows"
 
     [[Electron.download]]
-    sha256 = "a3ec98098f41408887de71a64bdc95761f9d9e51003558e141f7157f59a7b155"
-    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+2/Electron.v38.2.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "adc44abfbf615c4c7234270d3d9f5e4260749e1e4e20d4cd6e8cc83a521e07d9"
+    url = "https://github.com/JuliaBinaryWrappers/Electron_jll.jl/releases/download/Electron-v38.2.0+3/Electron.v38.2.0.x86_64-w64-mingw32.tar.gz"
